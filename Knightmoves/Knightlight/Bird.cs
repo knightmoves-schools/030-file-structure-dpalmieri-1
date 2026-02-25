@@ -1,4 +1,4 @@
-namespace Bird;
+namespace Knightmoves.Knightlight;
 
 public class Bird  : Animal{
     public string Sing() {
